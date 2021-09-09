@@ -1,5 +1,5 @@
 # AutoAssemblyAutomation
-Task for job applicatioon
+Task for job application
 PHP 8 !
 This project is aimed to create Order Automobile Automation.
 Run it by 
